@@ -27,4 +27,22 @@ This is a custom twist on classic Tic-Tac-Toe, built with Flutter. The game intr
 
 ---
 
-   
+## 📁 Folder Structure
+
+```
+lib/
+ └── main.dart       # Main game logic and UI
+assets/              # Audio files for game events
+ ├── click.mp3
+ ├── reset.mp3
+ └── ka-ching.mp3
+```
+
+Make sure your `pubspec.yaml` includes the assets:
+
+```yaml
+assets:
+  - assets/click.mp3
+  - assets/reset.mp3
+  - assets/ka-ching.mp3
+```

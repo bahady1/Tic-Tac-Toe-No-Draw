@@ -1,6 +1,6 @@
 # Tic-Tac-Toe-No-Draw
 
-Tic-Tac-Toe with one twist — inspired by the **Tic Tac Toe Bolt** electronic game device. Each player can only have 3 symbols on the board. Place a 4th and your oldest vanishes. No draws, built with Flutter.
+Tic-Tac-Toe with one twist (No Draws), inspired by the **Tic Tac Toe Bolt** electronic game device. Each player can only have 3 symbols on the board. Place a 4th and your oldest vanishes. No draws, built with Flutter.
 
 ---
  

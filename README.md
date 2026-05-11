@@ -44,7 +44,7 @@ The game tracks a queue of placed symbols per player. On each turn:
 - The new symbol is added to the player's queue
 - If the queue exceeds 3, the **oldest symbol** is dequeued and removed from the board
 - Win condition is checked after every placement against all 8 possible lines
-- The fading opacity effect is applied to `queue[0]` — the next symbol to be removed
+- The fading opacity effect is applied to `queue[0]` the next symbol to be removed
 ---
  
 ### 👤 Author

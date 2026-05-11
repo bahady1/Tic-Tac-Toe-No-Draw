@@ -13,9 +13,11 @@ Tic-Tac-Toe with one twist — inspired by the **Tic Tac Toe Bolt** electronic g
  
 ### ✨ Quick start
 
-create a new flutter projetc.
-add the assets and lib folders to your project.
+Create a new flutter projetc.
 
+Add the assets and lib folders and other files to your project.
+
+Run Those commands 
 ```bash
 flutter pub get
 flutter run
